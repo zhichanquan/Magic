@@ -1,2 +1,2 @@
 # Magic
-Magic
+Wechat: `zhichanquan888`
