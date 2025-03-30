@@ -4,7 +4,7 @@
         "updates": [
           {
             "version": "2.1.3",
-            "update_link": "https://gitee.com/zotero-chinese/zotero-magic-for-user/raw/master/zotero-magic-for-user.xpi",
+            "update_link": "https://github.com/zhichanquan/Magic/releases/download/update/magic-213.xpi",
             "applications": {
               "zotero": {
                 "strict_min_version": "6.999"
