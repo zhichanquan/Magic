@@ -3,8 +3,8 @@
     "zoteromagic@zoterocn.com": {
       "updates": [
         {
-          "version": "2.2.7",
-          "update_link": "https://github.com/zhichanquan/Magic/releases/download/Magic/magic-227.xpi",
+          "version": "2.3.9",
+          "update_link": "https://github.com/zhichanquan/Magic/releases/download/Magic/magic-239.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
